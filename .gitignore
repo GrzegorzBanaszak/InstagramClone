@@ -1,0 +1,83 @@
+## Build results
+bin/
+obj/
+[Ll]og*/
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Visual Studio
+.vscode/
+.vs/
+*.dbmdl
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.cache
+*.ide
+
+## Rider
+.idea/
+*.sln.iml
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Entity Framework
+Migrations/
+
+## ASP.NET
+wwwroot/
+appsettings.Development.json
+
+## Publish
+publish/
+*.Publish.xml
+
+## Others
+*.bak
+*.tmp
+*.swp
+_ReSharper*/
+*.resharper
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Backup & local config
+*.bak
+*.orig
+*.config.local
+
+# TFS
+$tf/
+
+# Local tools config
+.localhistory/
+
+# dotCover
+*.dotCover
+
+# Global.json
+global.json.user
